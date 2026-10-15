@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
+<rect x="1" y="1" width="758" height="298" rx="22" fill="#050505" stroke="#eeeeee" stroke-width="1.5"/>
+<text x="22" y="30" fill="#f5f5f5" font-family="monospace" font-size="13">~/ profile-info</text>
+
+<text x="28" y="74" fill="#eeeeee" font-family="monospace" font-size="14">       .--.</text>
+<text x="28" y="96" fill="#eeeeee" font-family="monospace" font-size="14">      |o_o |</text>
+<text x="28" y="118" fill="#eeeeee" font-family="monospace" font-size="14">      |:_/ |</text>
+<text x="28" y="140" fill="#eeeeee" font-family="monospace" font-size="14">     //   \\ \\</text>
+<text x="28" y="162" fill="#eeeeee" font-family="monospace" font-size="14">    (|     | )</text>
+<text x="28" y="184" fill="#eeeeee" font-family="monospace" font-size="14">   /'\\_   _/`\\</text>
+<text x="28" y="206" fill="#eeeeee" font-family="monospace" font-size="14">   \\___)=(___/</text>
+<text x="310" y="68" fill="#ffffff" font-family="monospace" font-size="15">user       6le9naya</text>
+<text x="310" y="94" fill="#eeeeee" font-family="monospace" font-size="14">os         GitHub profile</text>
+<text x="310" y="118" fill="#eeeeee" font-family="monospace" font-size="14">wm         Markdown / SVG</text>
+<text x="310" y="142" fill="#eeeeee" font-family="monospace" font-size="14">shell      zsh-inspired</text>
+<text x="310" y="166" fill="#eeeeee" font-family="monospace" font-size="14">theme      monochrome</text>
+<text x="310" y="190" fill="#eeeeee" font-family="monospace" font-size="14">projects   trace-svg</text>
+<text x="310" y="214" fill="#eeeeee" font-family="monospace" font-size="14">status     building</text>
+
+</svg>
